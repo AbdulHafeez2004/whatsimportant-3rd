@@ -1,6 +1,6 @@
-# Django Combinator
+# AI summarizer using natural language processing and django.
 
-This is a simple project to show the combinationsof numbers, names
+This is a simple project to summarize a long amount of text into few sentences.
 
 ## Running on your local machine
 
